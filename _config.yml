@@ -15,14 +15,14 @@ tagline: Math.  # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
   Math blog.
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://izzorts.github.io'
+url: 'https://izzortsi.github.io'
 
 author: Igor Strozzi                  # change to your full name
 
 avatar: /assets/img/avatar.jpg   # support internet resources
 
 github:
-  username: izzorts            # change to your github username
+  username: izzortsi            # change to your github username
 
 twitter:
   username: izzortsi           # change to your twitter username
@@ -32,7 +32,7 @@ social:
   email: istrozzi@matematica.ufrj.br             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/izzorts       # change to your github homepage
+    - https://github.com/izzortsi       # change to your github homepage
     - https://twitter.com/izzortsi     # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
