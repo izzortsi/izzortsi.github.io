@@ -8,12 +8,16 @@
   type: github
   icon: 'fab fa-github-alt'
 -
-#  type: twitter
-#  icon: 'fab fa-twitter'
-#-
+  type: twitter
+  icon: 'fab fa-twitter'
+-
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
+-
+  type: upwork
+  icon: 'fab fa-upwork'
+  url: 'https://www.upwork.com/freelancers/istrozzi'
 #-
 #  type: rss
 #  icon: 'fas fa-rss'
@@ -28,7 +32,7 @@
 #   type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Linkedin homepage
-# -
-#   type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+-
+  type: stack-overflow
+  icon: 'fab fa-stack-overflow'
+  url:  'https://math.stackexchange.com/users/357352/izzorts'                  # Fill with your stackoverflow homepage
