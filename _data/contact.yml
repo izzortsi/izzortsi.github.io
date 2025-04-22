@@ -16,7 +16,7 @@
   noblank: true            # open link in current tab
 -
   type: upwork
-  icon: 'fab fa-square-upwork'
+  icon: 'fas fa-square-upwork'
   url: 'https://www.upwork.com/freelancers/istrozzi'
 -
   type: stack-overflow
